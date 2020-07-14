@@ -1,0 +1,11 @@
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\bin\Debug\netcoreapp3.1\jokenpo_game.exe
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\bin\Debug\netcoreapp3.1\jokenpo_game.deps.json
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\bin\Debug\netcoreapp3.1\jokenpo_game.runtimeconfig.json
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\bin\Debug\netcoreapp3.1\jokenpo_game.runtimeconfig.dev.json
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\bin\Debug\netcoreapp3.1\jokenpo_game.dll
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\bin\Debug\netcoreapp3.1\jokenpo_game.pdb
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\obj\Debug\netcoreapp3.1\jokenpo_game.csprojAssemblyReference.cache
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\obj\Debug\netcoreapp3.1\jokenpo_game.AssemblyInfoInputs.cache
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\obj\Debug\netcoreapp3.1\jokenpo_game.AssemblyInfo.cs
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\obj\Debug\netcoreapp3.1\jokenpo_game.dll
+C:\Users\Theodoro\source\repos\jokenpo_game\jokenpo_game\obj\Debug\netcoreapp3.1\jokenpo_game.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "jokenpo_game/1.0.0": {
+        "runtime": {
+          "jokenpo_game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jokenpo_game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
